@@ -1,0 +1,14 @@
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\F_B_F\OneDrive - НИТУ МИСиС\Desktop\home work_unv\CM_4\Алгоритмы дискретной математики\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
